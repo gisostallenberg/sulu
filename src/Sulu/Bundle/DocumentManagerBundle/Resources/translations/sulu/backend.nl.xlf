@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="5" resname="sulu-document-manager.draft-label">
                 <source>sulu-document-manager.draft-label</source>
-                <target><![CDATA[Je werkt aan een concept, laatst opgeslagen: %(changed)s door <b>%(user)s</b>]]></target>
+                 <target><![CDATA[Je werkt aan een concept, laatst opgeslagen: %(changed)s door <b>%(user)s</b>]]></target>
             </trans-unit>
             <trans-unit id="6" resname="sulu-document-manager.unpublish">
                 <source>sulu-document-manager.unpublish</source>

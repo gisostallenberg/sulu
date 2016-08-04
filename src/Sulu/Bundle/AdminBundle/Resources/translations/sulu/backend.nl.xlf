@@ -4,7 +4,7 @@
         <body>
             <trans-unit id="fbf4558377419fbed4a73a4ba3fdf006" resname="public.name">
                 <source>public.name</source>
-                <target>Name</target>
+                <target>Naam</target>
             </trans-unit>
             <trans-unit id="fbf5558377419fbed4c73a4ba3fdf006" resname="public.key">
                 <source>public.key</source>
@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="4190dab27f368a8a2e5f4f20f8aec708" resname="header.save">
                 <source>header.save</source>
-                <target>Bewaar</target>
+                <target>Opslaan</target>
             </trans-unit>
             <trans-unit id="307fb80b1557fd5a20078b81d3315516" resname="header.saved">
                 <source>header.saved</source>
@@ -184,7 +184,7 @@
             </trans-unit>
             <trans-unit id="435b1473d76660a3ea27a2e9335a8d5d" resname="navigation.settings">
                 <source>navigation.settings</source>
-                <target>Settings</target>
+                <target>Instellingen</target>
             </trans-unit>
             <trans-unit id="a4e5be148f7d93a106d468391b00d055" resname="navigation.settings.translate">
                 <source>navigation.settings.translate</source>
@@ -208,7 +208,7 @@
             </trans-unit>
             <trans-unit id="da096463200e2c1bd9bdd1321852e268" resname="content-navigation.security.permissions">
                 <source>content-navigation.security.permissions</source>
-                <target>Permissies</target>
+                <target>Rechten</target>
             </trans-unit>
             <trans-unit id="fd444a99cbd01ff26a3efa16ff6da07e" resname="content-navigation.security.details">
                 <source>content-navigation.security.details</source>
@@ -216,15 +216,15 @@
             </trans-unit>
             <trans-unit id="4a89b50039803b376bde5c46837b91a4" resname="content-navigation.contents.content">
                 <source>content-navigation.contents.content</source>
-                <target>Content</target>
+                <target>Inhoud</target>
             </trans-unit>
             <trans-unit id="ecfca947639c0251512a8c1990132da0" resname="content-navigation.contents.settings">
                 <source>content-navigation.contents.settings</source>
-                <target>Settings</target>
+                <target>Instellingen</target>
             </trans-unit>
             <trans-unit id="208ce313bf52378e0d6891d69ffcddd4" resname="public.search">
                 <source>public.search</source>
-                <target>Zoek ...</target>
+                <target>Zoek...</target>
             </trans-unit>
             <trans-unit id="5e151909a6ee7c2c566d068d611a848b" resname="navigation.hide">
                 <source>navigation.hide</source>
@@ -248,7 +248,7 @@
             </trans-unit>
             <trans-unit id="317132c150958a110ab6c49ea2f99dee" resname="pagination.elements">
                 <source>pagination.elements</source>
-                <target>elementen</target>
+                <target>onderdelen</target>
             </trans-unit>
             <trans-unit id="f293f6bd000d7e96b51c24c6e4b22e59" resname="pagination.show">
                 <source>pagination.show</source>
@@ -256,7 +256,7 @@
             </trans-unit>
             <trans-unit id="611c731dd700d92d4246a4dc57996bec" resname="pagination.elements-of">
                 <source>pagination.elements-of</source>
-                <target>elementen van</target>
+                <target>onderdelen van</target>
             </trans-unit>
             <trans-unit id="a8930b800abe85d3b19da82ca85dc4c0" resname="pagination.elements-per-page">
                 <source>pagination.elements-per-page</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="ab31942997c01851a4e84e476882c5bc" resname="pagination.show-all-elements">
                 <source>pagination.show-all-elements</source>
-                <target>Toon alle items</target>
+                <target>Toon alle onderdelen</target>
             </trans-unit>
             <trans-unit id="84e007577e7329f1ac8509c8e6b6e038" resname="navigation.settings.tags">
                 <source>navigation.settings.tags</source>
@@ -540,7 +540,7 @@
             </trans-unit>
             <trans-unit id="6c01dbc259d279576ab8d385c110e66c" resname="public.elements">
                 <source>public.elements</source>
-                <target>elementen</target>
+                <target>onderdelen</target>
             </trans-unit>
             <trans-unit id="5ce49fa74807f040dd27e417751cb9e1" resname="sulu.upload.dropzone-title">
                 <source>sulu.upload.dropzone-title</source>
@@ -620,7 +620,7 @@
             </trans-unit>
             <trans-unit id="9052063af3ba0f52ef7a4d1c0218d54" resname="public.server_error">
                 <source>public.server_error</source>
-                <target>Server fout</target>
+                <target>Serverfout</target>
             </trans-unit>
             <trans-unit id="9052263af3ba0f52ef7a4d3c0298d50" resname="public.add-entry">
                 <source>public.add-entry</source>
@@ -664,7 +664,7 @@
             </trans-unit>
             <trans-unit id="643c29ff1964652633a5ca2178d2219f" resname="sulu.property.email">
                 <source>sulu.property.email</source>
-                <target>Email</target>
+                <target>E-mail</target>
             </trans-unit>
             <trans-unit id="643c92ff1964652633a5ca2178d2219f" resname="sulu.property.color">
                 <source>sulu.property.color</source>
@@ -700,7 +700,7 @@
             </trans-unit>
             <trans-unit id="143d99ff2f64652633a5ca2169f22254" resname="content-navigation.contents.excerpt">
                 <source>content-navigation.contents.excerpt</source>
-                <target>Samenvatting en Categorieën</target>
+                <target>Samenvatting en categorieën</target>
             </trans-unit>
             <trans-unit id="c964588d92c25e70ec2d7f9be4e28ebc" resname="select.edit-entries">
                 <source>select.edit-entries</source>
@@ -784,7 +784,7 @@
             </trans-unit>
             <trans-unit id="a504f52dde1456ff4132c0b4820e29a43" resname="public.email">
                 <source>public.email</source>
-                <target>Email</target>
+                <target>E-mail</target>
             </trans-unit>
             <trans-unit id="a504f52dde1456ff4132c0b4820e29a41" resname="sulu.login.back-login">
                 <source>sulu.login.back-login</source>
@@ -792,11 +792,11 @@
             </trans-unit>
             <trans-unit id="a504f52dde1456ff4132c0b4820e29a42" resname="sulu.login.resend-email">
                 <source>sulu.login.resend-email</source>
-                <target>Stuur e-mail opnieuw</target>
+                <target>Verstuur e-mail opnieuw</target>
             </trans-unit>
             <trans-unit id="a404f52dde1456ff4132c0b4820e29a43" resname="sulu.login.email-sent-message">
                 <source>sulu.login.email-sent-message</source>
-                <target>Een email met wachtwoord reset instructies is gemaild naar:</target>
+                <target>Een e-mail met wachtwoord reset instructies is gemaild naar:</target>
             </trans-unit>
             <trans-unit id="b504f52dde1456ff4132c0b4820e29a4f" resname="sulu.login.back-website">
                 <source>sulu.login.back-website</source>
@@ -808,7 +808,7 @@
             </trans-unit>
             <trans-unit id="b504f52dde1456ff4132c0b4820e29ad1" resname="sulu.login.error-message">
                 <source>sulu.login.error-message</source>
-                <target>De email / wachtwoord combinatie is verkeerd. Probeer opnieuw.</target>
+                <target>De e-mail / wachtwoord combinatie is verkeerd. Probeer opnieuw.</target>
             </trans-unit>
             <trans-unit id="b504f52dde1456ff4132c0b4820e29ad7" resname="sulu.login.forgot-password">
                 <source>sulu.login.forgot-password</source>
@@ -816,7 +816,7 @@
             </trans-unit>
             <trans-unit id="b504f52dde1456ff3132c0b4820e29ad7" resname="sulu.login.email-username">
                 <source>sulu.login.email-username</source>
-                <target>Gebruikersnaam of email</target>
+                <target>Gebruikersnaam of e-mail</target>
             </trans-unit>
             <trans-unit id="b504f52dde1456ff4132c0b4820e29ad2" resname="public.password">
                 <source>public.password</source>
@@ -824,11 +824,11 @@
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4132c0b4820e29ad2" resname="sulu.login.mail.user-not-found">
                 <source>sulu.login.mail.user-not-found</source>
-                <target>Een gebruiker met deze gebruikersnaam of email wordt niet herkend.</target>
+                <target>Een gebruiker met deze gebruikersnaam of e-mail wordt niet herkend.</target>
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4132c0b4820e29ad1" resname="sulu.login.mail.already-sent">
                 <source>sulu.login.mail.already-sent</source>
-                <target>Er is al een email met instructies verzonden.</target>
+                <target>Er is al een e-mail met instructies verzonden.</target>
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4132c0b4820e29ad3" resname="sulu.login.token-does-not-exist">
                 <source>sulu.login.token-does-not-exist</source>
@@ -836,7 +836,7 @@
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4132c0b4820e29ad4" resname="sulu.login.mail.limit-reached">
                 <source>sulu.login.mail.limit-reached</source>
-                <target>Je hebt het limiet van te versturen emails bereikt.</target>
+                <target>Je hebt het limiet van te versturen e-mails bereikt.</target>
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4132c0b4820e29adf" resname="sulu.login.repeat-password">
                 <source>sulu.login.repeat-password</source>
@@ -848,7 +848,7 @@
             </trans-unit>
             <trans-unit id="b504f52dde2454cc4134c0b4820e28adf" resname="sulu.login.email-sent-success">
                 <source>sulu.login.email-sent-success</source>
-                <target>Email succesvol verzonden</target>
+                <target>E-mail succesvol verzonden</target>
             </trans-unit>
             <trans-unit id="b504f52dde2354cc4132c0b4820e28adc" resname="public.elements-selected">
                 <source>public.elements-selected</source>
@@ -856,15 +856,15 @@
             </trans-unit>
             <trans-unit id="b504a53dde2354cc4132c0b4820e28ade" resname="public.save">
                 <source>public.save</source>
-                <target>Bewaar</target>
+                <target>Opslaan</target>
             </trans-unit>
             <trans-unit id="b504a53dde2354cc4132c0b4820e22ade" resname="public.save-and-back">
                 <source>public.save-and-back</source>
-                <target>Bewaar en terug</target>
+                <target>Opslaan en terug</target>
             </trans-unit>
             <trans-unit id="b504a53dde1354cc4132c0b4820e22ade" resname="public.save-and-new">
                 <source>public.save-and-new</source>
-                <target>Bewaar en nieuw</target>
+                <target>Opslaan en nieuw</target>
             </trans-unit>
             <trans-unit id="b504a54dde1354cc4132c0b4820e22ade" resname="public.settings">
                 <source>public.settings</source>
@@ -880,7 +880,7 @@
             </trans-unit>
             <trans-unit id="b503a53dde1354cc4132c0b4820e28ada" resname="public.add-new">
                 <source>public.add-new</source>
-                <target>Toevoegen nieuwe</target>
+                <target>Toevoegen</target>
             </trans-unit>
             <trans-unit id="b500b52dde1354cc4132c0b4820e28ada" resname="public.avatar">
                 <source>public.avatar</source>

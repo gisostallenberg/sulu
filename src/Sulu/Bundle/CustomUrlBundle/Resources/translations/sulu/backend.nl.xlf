@@ -4,11 +4,11 @@
         <body>
             <trans-unit id="1" resname="content-navigation.webspace.custom-url">
                 <source>content-navigation.webspace.custom-url</source>
-                <target>Custom URL</target>
+                <target>Eigen URL</target>
             </trans-unit>
             <trans-unit id="2" resname="custom-urls.webspace.settings.edit.title">
                 <source>custom-urls.webspace.settings.edit.title</source>
-                <target>Custom URL</target>
+                <target>Eigen URL</target>
             </trans-unit>
             <trans-unit id="3" resname="custom-urls.urls-title">
                 <source>custom-urls.urls-title</source>
@@ -20,11 +20,11 @@
             </trans-unit>
             <trans-unit id="5" resname="custom-urls.base-domain">
                 <source>custom-urls.base-domain</source>
-                <target>Basis domein</target>
+                <target>Basisdomein</target>
             </trans-unit>
             <trans-unit id="6" resname="custom-urls.custom-url">
                 <source>custom-urls.custom-url</source>
-                <target>Eigen URL</target>
+                <target>Custom URL</target>
             </trans-unit>
             <trans-unit id="7" resname="custom-urls.target">
                 <source>custom-urls.target</source>
@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="10" resname="custom-urls.canonical.description">
                 <source>custom-urls.canonical.description</source>
-                <target>Wanneer canonische URL is ingeschakeld wordt alleen de gelinkte pagina geïndexeerd.</target>
+                 <target>Wanneer canonische URL is ingeschakeld wordt alleen de gelinkte pagina geïndexeerd.</target>
             </trans-unit>
             <trans-unit id="11" resname="custom-urls.redirect">
                 <source>custom-urls.redirect</source>
@@ -56,7 +56,7 @@
             </trans-unit>
             <trans-unit id="14" resname="custom-urls.no-index.description">
                 <source>custom-urls.no-index.description</source>
-                <target>Pagina wordt niet geïndexeerd door zoekmachines</target>
+                <target>Pagina wordt niet geïndexeerd door zoekmachines.</target>
             </trans-unit>
             <trans-unit id="15" resname="custom-urls.no-follow">
                 <source>custom-urls.no-follow</source>
@@ -64,7 +64,7 @@
             </trans-unit>
             <trans-unit id="16" resname="custom-urls.no-follow.description">
                 <source>custom-urls.no-follow.description</source>
-                <target>Links op deze pagina worden niet gevolgd door zoekmachines</target>
+                <target>Links op deze pagina worden niet gevolgd door zoekmachines.</target>
             </trans-unit>
             <trans-unit id="17" resname="custom-urls.history">
                 <source>custom-urls.history</source>

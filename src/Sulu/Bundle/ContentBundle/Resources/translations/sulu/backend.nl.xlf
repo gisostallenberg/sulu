@@ -8,7 +8,7 @@
             </trans-unit>
             <trans-unit id="fbf455837741abced4a73a4ba3fdf006" resname="single-internal-link.title">
                 <source>single-internal-link.title</source>
-                <target>Selecteer enkelvoudige Interne link</target>
+                <target>Selecteer enkelvoudige interne link</target>
             </trans-unit>
             <trans-unit id="fbf4558371239fbed1233a4ba3fdf006" resname="content-navigation.contents.internal-link">
                 <source>content-navigation.contents.internal-link</source>
@@ -20,11 +20,11 @@
             </trans-unit>
             <trans-unit id="fbf1328371239fbed4a73a4basdfdf006" resname="sulu.content.form.settings.show-in-navigation">
                 <source>sulu.content.form.settings.show-in-navigation</source>
-                <target>Toon in Navigatie</target>
+                <target>Toon in navigatie</target>
             </trans-unit>
             <trans-unit id="fbfasdf371239fbed4a73a4basdfdf006" resname="sulu.content.form.settings.type">
                 <source>sulu.content.form.settings.type</source>
-                <target>Pagina type</target>
+                <target>Paginatype</target>
             </trans-unit>
             <trans-unit id="fbfasdf371239fbed4a73a4123dfdf006" resname="sulu.content.form.settings.type.content">
                 <source>sulu.content.form.settings.type.content</source>
@@ -92,7 +92,7 @@
             </trans-unit>
             <trans-unit id="66f18ec54ed3b6a089ee3712167c4e87" resname="smart-content.include-sub-folders">
                 <source>smart-content.include-sub-folders</source>
-                <target>Inclusief sub-pagina's</target>
+                <target>Inclusief subpagina's</target>
             </trans-unit>
             <trans-unit id="4cf5babee84aa0eef15db3ce11648b35" resname="smart-content.filter-by-category">
                 <source>smart-content.filter-by-category</source>
@@ -148,19 +148,19 @@
             </trans-unit>
             <trans-unit id="5ff9374232125b7f296a3e4cd9dc0bfe" resname="smart-content.from">
                 <source>smart-content.from</source>
-                <target>Van</target>
+                <target>van</target>
             </trans-unit>
             <trans-unit id="475db242975e3fbfd85d008cede565bc" resname="smart-content.sub-folders-inclusive">
                 <source>smart-content.sub-folders-inclusive</source>
-                <target>incl. submappen</target>
+                <target>incl. sub mappen</target>
             </trans-unit>
             <trans-unit id="30092dd4c161f141539f1802e8da02a8" resname="smart-content.view-all">
                 <source>smart-content.view-all</source>
-                <target>toon alle</target>
+                <target>Toon alle</target>
             </trans-unit>
             <trans-unit id="cc88fcd370c8ff1d96f0b9f99adb8316" resname="smart-content.view-less">
                 <source>smart-content.view-less</source>
-                <target>toon minder</target>
+                <target>Toon minder</target>
             </trans-unit>
             <trans-unit id="cc88fcd370c8ff1d96f0b9f99adb8317" resname="smart-content.title">
                 <source>smart-content.title</source>
@@ -252,7 +252,7 @@
             </trans-unit>
             <trans-unit id="443d99ff2f64652633a5ca2169f22254" resname="sulu.content.seo.title">
                 <source>sulu.content.seo.title</source>
-                <target>Titel (Meta title)</target>
+                <target>Titel (Meta Title)</target>
             </trans-unit>
             <trans-unit id="441d99ff2f64652633a5ca2169f22254" resname="sulu.content.seo.description">
                 <source>sulu.content.seo.description</source>
@@ -260,11 +260,11 @@
             </trans-unit>
             <trans-unit id="442d99ff2f64652633a5ca2169f22254" resname="sulu.content.seo.keywords">
                 <source>sulu.content.seo.keywords</source>
-                <target>Keywords (Meta keywords)</target>
+                <target>Keywords (Meta Keywords)</target>
             </trans-unit>
             <trans-unit id="445d99ff2f64652633a5ca2169f22254" resname="sulu.content.seo.canonical">
                 <source>sulu.content.seo.canonical</source>
-                <target>canonieke URL (Canonical Tag)</target>
+                <target>Canonical URL (Canonical Tag)</target>
             </trans-unit>
             <trans-unit id="445d99ff2f64652633a5ca2169f22256" resname="sulu.content.seo.robots">
                 <source>sulu.content.seo.robots</source>
@@ -300,7 +300,7 @@
             </trans-unit>
             <trans-unit id="e50af522ac181350142c0b4720e29a2f" resname="sulu.content.seo.characters-left">
                 <source>sulu.content.seo.characters-left</source>
-                <target>Tekens over</target>
+                <target>tekens over</target>
             </trans-unit>
             <trans-unit id="b50af522ac181350142c0b4720e29a2f" resname="sulu.content.seo.keywords.note">
                 <source>sulu.content.seo.keywords.note</source>
@@ -316,7 +316,7 @@
             </trans-unit>
             <trans-unit id="c50af522ac181350142c0b4720e29a2f" resname="sulu.content.seo.descriptions.note">
                 <source>sulu.content.seo.descriptions.note</source>
-                <target>De meta-description is gelimiteerd tot 155 karakters.</target>
+                <target>De meta-beschrijving is gelimiteerd tot 155 karakters.</target>
             </trans-unit>
             <trans-unit id="a945ccdbf95d2852ab6390cea24ebb6f" resname="content.contents.title">
                 <source>content.contents.title</source>
@@ -340,11 +340,11 @@
             </trans-unit>
             <trans-unit id="aaaaaaf371239fbed4a73a4123dfdf009" resname="sulu.content.form.settings.shadow.enable">
                 <source>sulu.content.form.settings.shadow.enable</source>
-                <target>Schaduw aan</target>
+                <target>Schaduwpagina aan</target>
             </trans-unit>
             <trans-unit id="aaaa4df371239fbed4a73a4123dfdf010" resname="sulu.content.form.settings.shadow.base_language">
                 <source>sulu.content.form.settings.shadow.base_language</source>
-                <target>Schaduw basistaal</target>
+                <target>Schaduwpagina basistaal</target>
             </trans-unit>
             <trans-unit id="aaaaaaa371239fbed4a73a4123dfdf011" resname="sulu.content.form.settings.shadow.no_base_language">
                 <source>sulu.content.form.settings.shadow.no_base_language</source>
@@ -409,11 +409,11 @@
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf020" resname="content.contents.settings.copy-locale.info">
                 <source>content.contents.settings.copy-locale.info</source>
-                <target><![CDATA[De pagina bestaat niet in deze taal.<br/>Selecteer een van de volgende opties:]]></target>
+                 <target><![CDATA[De pagina bestaat niet in deze taal.<br/>Selecteer een van de volgende opties:]]></target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf021" resname="content.contents.settings.copy-locale.new">
                 <source>content.contents.settings.copy-locale.new</source>
-                <target><![CDATA[Creëer een nieuwe <b>lege pagina</b> in deze taal]]></target>
+              <target><![CDATA[Creëer een nieuwe <b>lege pagina</b> in deze taal]]></target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf022" resname="content.contents.settings.copy-locale.copy">
                 <source>content.contents.settings.copy-locale.copy</source>
@@ -429,7 +429,7 @@
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf025" resname="toolbar.copy-locale">
                 <source>toolbar.copy-locale</source>
-                <target>Kopieën talen</target>
+                <target>Kopieer talen</target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf026" resname="content.contents.new">
                 <source>content.contents.create</source>
@@ -437,7 +437,7 @@
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf027" resname="content.contents.settings.copy-locales.default-label">
                 <source>content.contents.settings.copy-locales.default-label</source>
-                <target>Kies taal ...</target>
+                <target>Kies taal...</target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf030" resname="sulu.content.form.settings.changelog">
                 <source>sulu.content.form.settings.changelog</source>
@@ -481,7 +481,7 @@
             </trans-unit>
             <trans-unit id="2cbbaaca39148fbed4a73a4123dfdf0fc" resname="column-navigation.order-message">
                 <source>column-navigation.order-message</source>
-                <target>De volgende operatie zal de pagina opnieuw rangschikken</target>
+                <target>De volgende handeling zal de pagina opnieuw rangschikken.</target>
             </trans-unit>
             <trans-unit id="75435af307a7ae8f965923968a0e0f94" resname="labels.error.content-save-desc">
                 <source>labels.error.content-save-desc</source>
@@ -493,11 +493,11 @@
             </trans-unit>
             <trans-unit id="2647c238cae0fa45d7fbad336e43750f" resname="labels.success.content-deleted-desc">
                 <source>labels.success.content-deleted-desc</source>
-                <target>Pagina succesvol verwijderd</target>
+                <target>Pagina succesvol verwijderd.</target>
             </trans-unit>
             <trans-unit id="487f946d51783a9899fa59d31dcfc3e8" resname="labels.success.content-save-desc">
                 <source>labels.success.content-save-desc</source>
-                <target>Pagina succesvol opgeslagen</target>
+                <target>Pagina succesvol opgeslagen.</target>
             </trans-unit>
             <trans-unit id="497e046d51783a9899fa59d31dcfc3e8" resname="labels.success.copy-locale-desc">
                 <source>labels.success.copy-locale-desc</source>
@@ -573,7 +573,7 @@
             </trans-unit>
             <trans-unit id="16" resname="content.webspace.settings.urls">
                 <source>content.webspace.settings.urls</source>
-                <target>Geconfigureerde domeinen</target>
+                <target>Geconfigureerde domeinen </target>
             </trans-unit>
             <trans-unit id="17" resname="content.webspace.settings.url">
                 <source>content.webspace.settings.url</source>
@@ -609,7 +609,7 @@
             </trans-unit>
             <trans-unit id="25" resname="content.changed-warning.description">
                 <source>content.changed-warning.description</source>
-                <target>Deze pagina is bewerkt door een andere gebruiker. Als je hem opslaat gaat die data verloren.</target>
+               <target>Deze pagina is bewerkt door een andere gebruiker. Als je hem opslaat gaat die data verloren.</target>
             </trans-unit>
             <trans-unit id="26" resname="content.changed-warning.ok-button">
                 <source>content.changed-warning.ok-button</source>
@@ -689,7 +689,7 @@
             </trans-unit>
             <trans-unit id="45" resname="sulu-content.draft-label">
                 <source>sulu-content.draft-label</source>
-                <target><![CDATA[Je werkt aan een concept, als laatst: %(changed)s bewaard door <b>%(user)s</b>]]></target>
+               <target><![CDATA[Je werkt aan een concept, als laatst: %(changed)s bewaard door <b>%(user)s</b>]]></target>
             </trans-unit>
             <trans-unit id="46" resname="sulu-content.unpublish">
                 <source>sulu-content.unpublish</source>
@@ -725,7 +725,7 @@
             </trans-unit>
             <trans-unit id="54" resname="sulu-content.unpublish-confirm-text-with-draft">
                 <source>sulu-content.unpublish-confirm-text-with-draft</source>
-                <target>Wi je deze pagina echt depubliceren. Alle links gaan verloren en alle inhoud wordt onherroepelijk verwijderd van het huidige concept.</target>
+                <target>Wil je deze pagina echt depubliceren. Alle links gaan verloren en alle inhoud wordt onherroepelijk verwijderd in het huidige concept.</target>
             </trans-unit>
             <trans-unit id="55" resname="sulu-content.unpublish-confirm-title">
                 <source>sulu-content.unpublish-confirm-title</source>
