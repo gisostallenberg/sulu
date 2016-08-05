@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="643999ff2964652633a5ca2169f22236" resname="sulu.category.category-name">
                 <source>sulu.category.category-name</source>
-                <target>Categorie naam</target>
+                <target>Naam van categorie</target>
             </trans-unit>
             <trans-unit id="643999ff2964952633a5ca2169f22236" resname="sulu.category.category-key">
                 <source>sulu.category.category-key</source>
