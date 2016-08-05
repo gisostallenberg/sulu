@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="6" resname="resource.filter.delete.warning">
                 <source>resource.filter.delete.warning</source>
-                <target>Wil je echt geselecteerde filters verwijderen?  Alle data gaat verloren.</target>
+                <target>Wil je echt de geselecteerde filters verwijderen? Alle data gaat verloren.</target>
             </trans-unit>
             <trans-unit id="7" resname="resource.filter.conjunction.or">
                 <source>resource.filter.conjunction.or</source>

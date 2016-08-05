@@ -8,7 +8,7 @@
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e29a4f" resname="contacts.sidebar.mainContact">
                 <source>contacts.sidebar.mainContact</source>
-                <target>Belangrijkste contactpersoon</target>
+                <target>Primair contactpersoon</target>
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e29a5f" resname="public.company">
                 <source>public.company</source>
@@ -16,7 +16,7 @@
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e29a6f" resname="contacts.sidebar.mainCompany">
                 <source>contacts.sidebar.mainCompany</source>
-                <target>Belangrijkste bedrijf</target>
+                <target>Hoofdvestiging</target>
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e29a7f" resname="content-navigation.accounts.documents">
                 <source>content-navigation.accounts.documents</source>
@@ -28,7 +28,7 @@
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e39a7f" resname="contact.contacts.assignment">
                 <source>contact.contacts.assignment</source>
-                <target>Rollen</target>
+                <target>Toewijzing</target>
             </trans-unit>
             <trans-unit id="a50af522ac181350142c0b4720e49a8f" resname="contact.contacts.categories.label">
                 <source>contact.contacts.categories.label</source>
@@ -88,15 +88,15 @@
             </trans-unit>
             <trans-unit id="643c99ff2964652633a5ca2178d22198" resname="contact.accounts.termsOfDelivery.select">
                 <source>contact.accounts.termsOfDelivery.select</source>
-                <target>Maak je keuze s.v.p. ...</target>
+                <target>Maak je keuze...</target>
             </trans-unit>
             <trans-unit id="643c99ff2964652633a5ca2178d22199" resname="contact.accounts.termsOfPayment.select">
                 <source>contact.accounts.termsOfPayment.select</source>
-                <target>Maak je keuze s.v.p. ...</target>
+                <target>Maak je keuze...</target>
             </trans-unit>
             <trans-unit id="643c99ff2964652633a5ca2178d22236" resname="contact.account.condition.select">
                 <source>contact.account.condition.select</source>
-                <target>Maak je keuze s.v.p. ...</target>
+                <target>Maak je keuze...</target>
             </trans-unit>
             <trans-unit id="643d99ff2964652633a5ca2169f22237" resname="content-navigation.contacts.activities">
                 <source>content-navigation.contacts.activities</source>
@@ -128,7 +128,7 @@
             </trans-unit>
             <trans-unit id="643d99ff2964652633a5ca2169f22245" resname="contact.activities.dueDate">
                 <source>contact.activities.dueDate</source>
-                <target>Einddatum</target>
+                <target>Opleveringsdatum</target>
             </trans-unit>
             <trans-unit id="643d99ff2964652633a5ca2169f22246" resname="contact.activities.assignedContact">
                 <source>contact.activities.assignedContact</source>
@@ -224,7 +224,7 @@
             </trans-unit>
             <trans-unit id="642c992f1929c9e633a5ce2178d22194" resname="contact.address.deliveryAddress">
                 <source>contact.address.deliveryAddress</source>
-                <target>Bezoekadres</target>
+                <target>Postadres</target>
             </trans-unit>
             <trans-unit id="642c992f1929c9e633a5ce2178d22195" resname="contact.address.billingAddress">
                 <source>contact.address.billingAddress</source>
@@ -232,7 +232,7 @@
             </trans-unit>
             <trans-unit id="642c992f1929c9e633a5ce2178d22196" resname="contact.address.type">
                 <source>contact.address.type</source>
-                <target>Type adres</target>
+                <target>Adrestype</target>
             </trans-unit>
             <trans-unit id="642c992f1929c9e633a5ce2178d22197" resname="contact.address.postbox.number">
                 <source>contact.address.postbox.number</source>
@@ -248,7 +248,7 @@
             </trans-unit>
             <trans-unit id="po642c992f1929c9e633a5ce2178d22200" resname="contact.address.type.select">
                 <source>contact.address.type.select</source>
-                <target>Selecteer type adres</target>
+                <target>Selecteer adrestype</target>
             </trans-unit>
             <trans-unit id="po642c992f1929c9e633a5ce2178d22201" resname="contact.address.add.label">
                 <source>contact.address.add.label</source>
@@ -296,7 +296,7 @@
             </trans-unit>
             <trans-unit id="f47ed841c01ac8a9869950c758174209" resname="contact.contacts.formOfAddress.select">
                 <source>contact.contacts.formOfAddress.select</source>
-                <target>Keuze adressering</target>
+                <target>Kies aanhef</target>
             </trans-unit>
             <trans-unit id="4db269ac7faa0b76bd7288c86efb795b" resname="contact.contacts.formOfAddress.male">
                 <source>contact.contacts.formOfAddress.male</source>
@@ -308,7 +308,7 @@
             </trans-unit>
             <trans-unit id="b50e54392bb7da978e9a2cf49c4fa8fc" resname="contact.accounts.manage.categories.title">
                 <source>contact.accounts.manage.categories.title</source>
-                <target>Beheer categorie titel</target>
+                <target>Beheer categorieën</target>
             </trans-unit>
             <trans-unit id="742e8b76d3297cc60d49b6da002cadf6" resname="contact.accounts.manage.categories">
                 <source>contact.accounts.manage.categories</source>
@@ -380,7 +380,7 @@
             </trans-unit>
             <trans-unit id="73f08bc1e1576fe835885fccd00abaeb" resname="contacts.accounts.manage.categories.title">
                 <source>contacts.accounts.manage.categories.title</source>
-                <target>Beheer categorie</target>
+                <target>Beheer categorieën</target>
             </trans-unit>
             <trans-unit id="b7a4aa666805f63aa7a28f4c18f99ed0" resname="contacts.accounts.manage.categories">
                 <source>contacts.accounts.manage.categories</source>
@@ -416,19 +416,19 @@
             </trans-unit>
             <trans-unit id="4926f85302370f0c0e5381e2c08797d8" resname="contact.account.add-basic">
                 <source>contact.account.add-basic</source>
-                <target>Maak een nieuwe organisatie aan</target>
+                <target>Nieuwe organisatie aanmaken</target>
             </trans-unit>
             <trans-unit id="88eebe41010b0d017b51a2d8aa74d91d" resname="contact.account.add-lead">
                 <source>contact.account.add-lead</source>
-                <target>Maak een nieuwe lead</target>
+                <target>Nieuwe lead aanmaken</target>
             </trans-unit>
             <trans-unit id="7d8cd989345f70f053970f7d2e3fa260" resname="contact.account.add-customer">
                 <source>contact.account.add-customer</source>
-                <target>Maak een nieuwe klant</target>
+                <target>Nieuwe klant aanmaken</target>
             </trans-unit>
             <trans-unit id="1652bb0344288e4c4b003ddd4313ba49" resname="contact.account.add-supplier">
                 <source>contact.account.add-supplier</source>
-                <target>Maak een nieuwe leverancier</target>
+                <target>Nieuwe leverancier aanmaken</target>
             </trans-unit>
             <trans-unit id="8f6cabe97b1f83bec94b4e7b78348e0c" resname="contact.accounts.type">
                 <source>contact.accounts.type</source>
@@ -440,7 +440,7 @@
             </trans-unit>
             <trans-unit id="f34bfecf79a539b6592fb2f2ec1135ef" resname="contact.contacts.middleName">
                 <source>contact.contacts.middleName</source>
-                <target>tussenvoegsel</target>
+                <target>Tussenvoegsel</target>
             </trans-unit>
             <trans-unit id="5b3bf4af63094914b22eb76ed9c43a30" resname="content-navigation.contacts.details">
                 <source>content-navigation.contacts.details</source>
@@ -608,7 +608,7 @@
             </trans-unit>
             <trans-unit id="235b1473d77593a3e44gs2e9335a8d5d" resname="contact.contacts.avatar-dropzone-text">
                 <source>contact.contacts.avatar-dropzone-text</source>
-                <target>Sleep een afbeelding hier naartoe of klik hier</target>
+                <target>Sleep een afbeelding hier naartoe of klik hier om de avatar te wijzigen</target>
             </trans-unit>
             <trans-unit id="235b14f26g7593a3e44gs2e9335a8d5d" resname="contact.accounts.logo-dropzone-text">
                 <source>contact.accounts.logo-dropzone-text</source>
@@ -624,11 +624,11 @@
             </trans-unit>
             <trans-unit id="235b14f26g712345e44gs2e9335a8d52" resname="user.enable">
                 <source>user.enable</source>
-                <target>Stel gebruiker in</target>
+                <target>Gebruiker activeren</target>
             </trans-unit>
             <trans-unit id="235b14f26g712345e44gs2e9335a8d53" resname="labels.success.user.activated">
                 <source>labels.success.user.activated</source>
-                <target>Gebruiker ingesteld</target>
+                <target>Gebruiker geactiveerd</target>
             </trans-unit>
         </body>
     </file>

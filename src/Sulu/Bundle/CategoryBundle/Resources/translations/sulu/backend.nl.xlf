@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="643999ff2964652633a5ca2169f22236" resname="sulu.category.category-name">
                 <source>sulu.category.category-name</source>
-                <target>Naam categorie</target>
+                <target>Categorie naam</target>
             </trans-unit>
             <trans-unit id="643999ff2964952633a5ca2169f22236" resname="sulu.category.category-key">
                 <source>sulu.category.category-key</source>
@@ -64,7 +64,7 @@
             </trans-unit>
             <trans-unit id="143d99fa2864553633a5ca2169f11114" resname="sulu.category.keyword_conflict.title">
                 <source>sulu.category.keyword_conflict.title</source>
-                <target>Het keyword wordt meerder keren gebruikt</target>
+                <target>Het keyword is meerder keren gebruikt</target>
             </trans-unit>
             <trans-unit id="143d99fa2864553633a5ca2169f11115" resname="sulu.category.keyword_conflict.message">
                 <source>sulu.category.keyword_conflict.message</source>

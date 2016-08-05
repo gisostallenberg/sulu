@@ -12,7 +12,7 @@
             </trans-unit>
             <trans-unit id="a50af522ac183350142c0b4720e29a5f" resname="security.user.activate">
                 <source>security.user.activate</source>
-                <target>Activeer gebruiker</target>
+                <target>Gebruiker activeren</target>
             </trans-unit>
             <trans-unit id="a50af522ac183350142c0b4720e29a6f" resname="security.roles.error.non-unique">
                 <source>security.roles.error.non-unique</source>
@@ -36,7 +36,7 @@
             </trans-unit>
             <trans-unit id="ae201470bf51b79a16ef61543d22b1df" resname="security.roles.name">
                 <source>security.roles.name</source>
-                <target>Titel rol</target>
+                <target>Naam van rol</target>
             </trans-unit>
             <trans-unit id="37a1d19f7da5a16c77f7d87b2609ec53" resname="security.roles.system">
                 <source>security.roles.system</source>
@@ -52,7 +52,7 @@
             </trans-unit>
             <trans-unit id="7bfc288be43d60933cc73693762f7bbf" resname="security.roles.section">
                 <source>security.roles.section</source>
-                <target>Gedeelte</target>
+                <target>Onderdeel</target>
             </trans-unit>
             <trans-unit id="01692babbb244c70554f6be226a8b8d4" resname="security.roles.permissions">
                 <source>security.roles.permissions</source>
@@ -108,7 +108,7 @@
             </trans-unit>
             <trans-unit id="b0c24aad50f7c816c2e229ec47f754bc" resname="security.permission.role.chooseLanguage">
                 <source>security.permission.role.chooseLanguage</source>
-                <target>Kies taal</target>
+                <target>Taal kiezen</target>
             </trans-unit>
             <trans-unit id="1cbc7d24ab0a482414bc0685517c236b" resname="security.permission.role.allLanguages">
                 <source>security.permission.role.allLanguages</source>

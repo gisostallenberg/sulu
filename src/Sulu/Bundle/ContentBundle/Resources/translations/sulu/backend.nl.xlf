@@ -8,7 +8,7 @@
             </trans-unit>
             <trans-unit id="fbf455837741abced4a73a4ba3fdf006" resname="single-internal-link.title">
                 <source>single-internal-link.title</source>
-                <target>Selecteer enkelvoudige interne link</target>
+                <target>Selecteer interne link</target>
             </trans-unit>
             <trans-unit id="fbf4558371239fbed1233a4ba3fdf006" resname="content-navigation.contents.internal-link">
                 <source>content-navigation.contents.internal-link</source>
@@ -104,11 +104,11 @@
             </trans-unit>
             <trans-unit id="ea58ee4521c5fe65045dc05092ea7d06" resname="smart-content.use-any-tag">
                 <source>smart-content.use-any-tag</source>
-                <target>Gebruik pagina's die EEN van de tags bevatten</target>
+                <target>Gebruik pagina's die één van de tags bevatten</target>
             </trans-unit>
             <trans-unit id="ea58ee4521c5fe65045dc05092ea7d08" resname="smart-content.use-all-tags">
                 <source>smart-content.use-all-tags</source>
-                <target>Gebruik pagina's die ALLE tags bevatten</target>
+                <target>Gebruik pagina's die alle tags bevatten</target>
             </trans-unit>
             <trans-unit id="7e3c491707f805797c98a366cf0c28e2" resname="smart-content.sort-by">
                 <source>smart-content.sort-by</source>
@@ -148,7 +148,7 @@
             </trans-unit>
             <trans-unit id="5ff9374232125b7f296a3e4cd9dc0bfe" resname="smart-content.from">
                 <source>smart-content.from</source>
-                <target>van</target>
+                <target>Van</target>
             </trans-unit>
             <trans-unit id="475db242975e3fbfd85d008cede565bc" resname="smart-content.sub-folders-inclusive">
                 <source>smart-content.sub-folders-inclusive</source>
@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="ad64f69edc5ce6dae6033001f5d01b6e" resname="content.template.dialog.titile">
                 <source>content.template.dialog.titile</source>
-                <target>Verander templates</target>
+                <target>Templates veranderen</target>
             </trans-unit>
             <trans-unit id="f6fca7ef129af3eac26919260b73ebf5" resname="content.template.dialog.content">
                 <source>content.template.dialog.content</source>
@@ -340,7 +340,7 @@
             </trans-unit>
             <trans-unit id="aaaaaaf371239fbed4a73a4123dfdf009" resname="sulu.content.form.settings.shadow.enable">
                 <source>sulu.content.form.settings.shadow.enable</source>
-                <target>Schaduwpagina aan</target>
+                <target>Schaduwpagina activeren</target>
             </trans-unit>
             <trans-unit id="aaaa4df371239fbed4a73a4123dfdf010" resname="sulu.content.form.settings.shadow.base_language">
                 <source>sulu.content.form.settings.shadow.base_language</source>
@@ -409,11 +409,11 @@
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf020" resname="content.contents.settings.copy-locale.info">
                 <source>content.contents.settings.copy-locale.info</source>
-                 <target><![CDATA[De pagina bestaat niet in deze taal.<br/>Selecteer een van de volgende opties:]]></target>
+                <target><![CDATA[De pagina bestaat niet in deze taal.<br/>Selecteer een van de volgende opties:]]></target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf021" resname="content.contents.settings.copy-locale.new">
                 <source>content.contents.settings.copy-locale.new</source>
-              <target><![CDATA[Creëer een nieuwe <b>lege pagina</b> in deze taal]]></target>
+                <target><![CDATA[Creëer een nieuwe <b>lege pagina</b> in deze taal]]></target>
             </trans-unit>
             <trans-unit id="abaaaaa382148fbed4a73a4123dfdf022" resname="content.contents.settings.copy-locale.copy">
                 <source>content.contents.settings.copy-locale.copy</source>
@@ -489,7 +489,7 @@
             </trans-unit>
             <trans-unit id="75435af3a7a7a38f968923968a0e0f94" resname="labels.error.content-save-resource-locator">
                 <source>labels.error.content-save-resource-locator</source>
-                <target>De ingevoerde Resource Locator is niet geldig.</target>
+                <target>De ingevoerde locatie is niet geldig.</target>
             </trans-unit>
             <trans-unit id="2647c238cae0fa45d7fbad336e43750f" resname="labels.success.content-deleted-desc">
                 <source>labels.success.content-deleted-desc</source>
@@ -525,11 +525,11 @@
             </trans-unit>
             <trans-unit id="e4b14069a8a085ede2092hf51234dh45" resname="smart-content.categories.use-any-category">
                 <source>smart-content.categories.use-any-category</source>
-                <target>Gebruik pagina's die EEN categorie heeft</target>
+                <target>Gebruik pagina's die een categorie hebben</target>
             </trans-unit>
             <trans-unit id="e4b14069a8a085ede2092hf51234dh46" resname="smart-content.categories.use-all-categories">
                 <source>smart-content.categories.use-all-categories</source>
-                <target>Gebruik pagina's die ALLE categorieën hebben</target>
+                <target>Gebruik pagina's die alle categorieën hebben</target>
             </trans-unit>
             <trans-unit id="e4b14069a8a085ede2092hf51234dh47" resname="smart-content.categories.categories-label">
                 <source>smart-content.categories.categories-label</source>
@@ -573,7 +573,7 @@
             </trans-unit>
             <trans-unit id="16" resname="content.webspace.settings.urls">
                 <source>content.webspace.settings.urls</source>
-                <target>Geconfigureerde domeinen </target>
+                <target>Geconfigureerde domeinen / URL's</target>
             </trans-unit>
             <trans-unit id="17" resname="content.webspace.settings.url">
                 <source>content.webspace.settings.url</source>
@@ -637,11 +637,11 @@
             </trans-unit>
             <trans-unit id="32" resname="content.ckeditor.internal-link.target-blank">
                 <source>content.ckeditor.internal-link.target-blank</source>
-                <target>Nieuw scherm (_blank)</target>
+                <target>Nieuw venster (_blank)</target>
             </trans-unit>
             <trans-unit id="33" resname="content.ckeditor.internal-link.target-self">
                 <source>content.ckeditor.internal-link.target-self</source>
-                <target>Zelfde scherm (_self)</target>
+                <target>Zelfde venster (_self)</target>
             </trans-unit>
             <trans-unit id="34" resname="content.ckeditor.internal-link.remove">
                 <source>content.ckeditor.internal-link.remove</source>
@@ -661,15 +661,15 @@
             </trans-unit>
             <trans-unit id="38" resname="content.text_editor.error.removed">
                 <source>content.text_editor.error.removed</source>
-                <target>Link kapot</target>
+                <target>Link niet geldig</target>
             </trans-unit>
             <trans-unit id="39" resname="content.text_editor.error.removed-single">
                 <source>content.text_editor.error.removed-single</source>
-                <target>Een link is kapot.</target>
+                <target>Een link is niet meer geldig.</target>
             </trans-unit>
             <trans-unit id="40" resname="content.text_editor.error.removed-multiple">
                 <source>content.text_editor.error.removed-multiple</source>
-                <target>%s links zijn kapot.</target>
+                <target>%s links zijn niet meer geldig.</target>
             </trans-unit>
             <trans-unit id="41" resname="sulu-content.save-draft">
                 <source>sulu-content.save-draft</source>
@@ -733,7 +733,7 @@
             </trans-unit>
             <trans-unit id="56" resname="sulu-content.delete-draft">
                 <source>sulu-content.delete-draft</source>
-                <target>Verwijder concept</target>
+                <target>Concept verwijderen</target>
             </trans-unit>
             <trans-unit id="57" resname="sulu-content.delete-draft-confirm-title">
                 <source>sulu-content.delete-draft-confirm-title</source>

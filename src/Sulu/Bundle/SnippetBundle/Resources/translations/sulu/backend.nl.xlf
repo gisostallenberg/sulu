@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="6" resname="snippet-content.add">
                 <source>snippet-content.add</source>
-                <target>Selecteer fragment</target>
+                <target>Fragment selecteren</target>
             </trans-unit>
             <trans-unit id="9" resname="snippet.delete-referenced-by-following">
                 <source>snippet.delete-referenced-by-following</source>
@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="14" resname="snippet-content.nosnippets-selected">
                 <source>snippet.delete-no-snippets-selected</source>
-                <target>Geen fragment(en) geselecteerd</target>
+                <target>Geen fragmenten geselecteerd</target>
             </trans-unit>
             <trans-unit id="e4b1428ja8a085edecd67tf5acb2d39e" resname="search-overlay.index.snippet.title">
                 <source>search-overlay.index.snippet.title</source>

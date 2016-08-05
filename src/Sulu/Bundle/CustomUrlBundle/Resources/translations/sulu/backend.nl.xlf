@@ -84,7 +84,7 @@
             </trans-unit>
             <trans-unit id="21" resname="custom-urls.custom-url.default-value">
                 <source>custom-urls.custom-url.default-value</source>
-                <target>Kies s.v.p. ...</target>
+                <target>Maak een keuze...</target>
             </trans-unit>
         </body>
     </file>

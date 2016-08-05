@@ -176,7 +176,7 @@
             </trans-unit>
             <trans-unit id="cfa5e5c51304396fa907ae54c84ab855" resname="sulu.list-toolbar.export">
                 <source>sulu.list-toolbar.export</source>
-                <target>Exporteer</target>
+                <target>Exporteren</target>
             </trans-unit>
             <trans-unit id="305f571ce8dc8b08470285f8a990899a" resname="navigation.tools">
                 <source>navigation.tools</source>
@@ -228,11 +228,11 @@
             </trans-unit>
             <trans-unit id="5e151909a6ee7c2c566d068d611a848b" resname="navigation.hide">
                 <source>navigation.hide</source>
-                <target>VERBERG</target>
+                <target>Verbergen</target>
             </trans-unit>
             <trans-unit id="0b7fef1b3b6a056c4a7b4a9fb6901586" resname="navigation.show">
                 <source>navigation.show</source>
-                <target>TOON</target>
+                <target>Tonen</target>
             </trans-unit>
             <trans-unit id="8c16a1fe6abba7701446e0f4515e096b" resname="security.permission.locale">
                 <source>security.permission.locale</source>
@@ -372,11 +372,11 @@
             </trans-unit>
             <trans-unit id="58b06d6f4d02d93226d543aa6df546cc" resname="sulu.matcher.unmatched-column">
                 <source>sulu.matcher.unmatched-column</source>
-                <target>Kolom past niet</target>
+                <target>Niet gematchte kolom</target>
             </trans-unit>
             <trans-unit id="88a3440757127accbe0f8aefa78de0f5" resname="sulu.matcher.matched-column">
                 <source>sulu.matcher.matched-column</source>
-                <target>Kolom past</target>
+                <target>Gematchte kolom</target>
             </trans-unit>
             <trans-unit id="f10513fb27976295fe1f7186e5fa40a9" resname="sulu.matcher.edit">
                 <source>sulu.matcher.edit</source>
@@ -400,7 +400,7 @@
             </trans-unit>
             <trans-unit id="fee413c552881531c70b1ac61da07738" resname="public.deactivate">
                 <source>public.deactivate</source>
-                <target>Deactiveer</target>
+                <target>Deactiveren</target>
             </trans-unit>
             <trans-unit id="d2d787cf3136eff4a01713ab1fb3580b" resname="public.add-fields">
                 <source>public.add-fields</source>
@@ -452,7 +452,7 @@
             </trans-unit>
             <trans-unit id="d5f4a99d54bb05a92a78146053c828d9" resname="sulu.overlay.delete-desc">
                 <source>sulu.overlay.delete-desc</source>
-                <target>Deze actie verwijderd alle data en kan niet ongedaan gemaakt worden. Weet je zeker dat je door wilt gaan?</target>
+                <target>Deze actie verwijderd data en kan niet ongedaan gemaakt worden. Weet je zeker dat je door wilt gaan?</target>
             </trans-unit>
             <trans-unit id="d5f4a99d54bb05a92a781460534528d9" resname="sulu.overlay.unsaved-changes-confirm">
                 <source>sulu.overlay.unsaved-changes-confirm</source>
@@ -468,7 +468,7 @@
             </trans-unit>
             <trans-unit id="80e0a3efaeceebe465c1a679e89c5139" resname="public.url-history">
                 <source>public.url-history</source>
-                <target>Url geschiedenis</target>
+                <target>Url-geschiedenis</target>
             </trans-unit>
             <trans-unit id="b3eabeaf680b421a9d705e5b069e8503" resname="sulu.property.title">
                 <source>sulu.property.title</source>
@@ -504,7 +504,7 @@
             </trans-unit>
             <trans-unit id="3ce9a72d652b2885fd27dded383f9c60" resname="sulu.type.editor">
                 <source>sulu.type.editor</source>
-                <target>Redacteur</target>
+                <target>Editor</target>
             </trans-unit>
             <trans-unit id="2e8bb7d315d95bf4768f32dc624f02ac" resname="sulu.type.area">
                 <source>sulu.type.area</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="7b9e03b4c0a92d2120e3301c3d7a91e9" resname="public.public">
                 <source>public.public</source>
-                <target>Publiek</target>
+                <target>Openbaar</target>
             </trans-unit>
             <trans-unit id="1f8faefde5f77a4f3139b079a5b51d29" resname="public.iban">
                 <source>public.iban</source>
@@ -580,7 +580,7 @@
             </trans-unit>
             <trans-unit id="c9276aa93501d9bd79d95617a0687c61" resname="public.please-choose">
                 <source>public.please-choose</source>
-                <target>Kies</target>
+                <target>Maak een keuze</target>
             </trans-unit>
             <trans-unit id="68f3cef76066b2a5ee8da26341eb373b" resname="public.color">
                 <source>public.color</source>
@@ -616,7 +616,7 @@
             </trans-unit>
             <trans-unit id="9052063af3ba0f52ef7a4d3c0298d54" resname="public.forbidden">
                 <source>public.forbidden.description</source>
-                <target>De beschikbare machtigingen zijn niet voldoende voor deze actie</target>
+                <target>De beschikbare rechten zijn niet voldoende voor deze actie</target>
             </trans-unit>
             <trans-unit id="9052063af3ba0f52ef7a4d1c0218d54" resname="public.server_error">
                 <source>public.server_error</source>
@@ -624,11 +624,11 @@
             </trans-unit>
             <trans-unit id="9052263af3ba0f52ef7a4d3c0298d50" resname="public.add-entry">
                 <source>public.add-entry</source>
-                <target>Nieuwe gegevens toevoegen</target>
+                <target>Nieuw item toevoegen</target>
             </trans-unit>
             <trans-unit id="9052264af3ba0f52ef7a4d3c0298d50" resname="public.edit-entries">
                 <source>public.edit-entries</source>
-                <target>Bewerk gegevens</target>
+                <target>Bewerk items</target>
             </trans-unit>
             <trans-unit id="90a2264419ba0f52ef7a4d3c0298d50" resname="public.info">
                 <source>public.info</source>
@@ -712,7 +712,7 @@
             </trans-unit>
             <trans-unit id="c364388d91823e70cc7d829be1e81abc" resname="select.add-item">
                 <source>select.add-item</source>
-                <target>Nieuwe toevoeging</target>
+                <target>Nieuw item</target>
             </trans-unit>
             <trans-unit id="c50af528fc121350142c0b4720e29a8c" resname="public.choose">
                 <source>public.choose</source>
@@ -968,7 +968,7 @@
             </trans-unit>
             <trans-unit id="c229c52dae1354cc4123c0b4820e23119" resname="csv_export.new-line-info">
                 <source>csv_export.new-line-info</source>
-                <target>Teken voor nieuwe regel</target>
+                <target>Teken voor nieuwe regel.</target>
             </trans-unit>
             <trans-unit id="c229c52dae1354cc4123c0b4820e23133" resname="navigation.modules">
                 <source>navigation.modules</source>
